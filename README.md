@@ -1,10 +1,8 @@
-### Hi there 👋
 
-<!--
-**DarioGiusino/DarioGiusino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
--->
+![1](https://user-images.githubusercontent.com/82829377/220737623-9b0d7e89-857a-41ec-a670-4499fda13a3d.png)
+
+
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
