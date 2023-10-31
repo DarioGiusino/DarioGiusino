@@ -2,7 +2,7 @@
 
 <!-- ![1](https://user-images.githubusercontent.com/82829377/220737623-9b0d7e89-857a-41ec-a670-4499fda13a3d.png) -->
 
-![1](https://github.com/DarioGiusino/DarioGiusino/blob/main/Dario%20Giusino%20Developer.png)
+![1](https://github.com/DarioGiusino/DarioGiusino/blob/main/Dario%20Giusino%20Developer%20(1).png)
 
 Sono un giovane e appassionato sviluppatore con una solida esperienza in un'ampia gamma di tecnologie. Il mio focus principale ruota attorno a Java e Spring, dove ho approfondito la mia conoscenza nell'ambito dello sviluppo web e applicativo.
 
